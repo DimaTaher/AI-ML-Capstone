@@ -4,7 +4,7 @@ Strategy & Analytics Consultant: Dima Taher
 
 # GitHub Navigation Instructions 
 
-- For a detailed overview of the complete project, please reference this [notebook.] (AI-ML-Capstone/House Price Predictions Using ML.ipynb)
+- For a detailed overview of the complete project, please reference this [notebook.] (Notebook/House Price Predictions Using ML.ipynb)
 - For the Dataset used, it will be found [here.](Data)
 
 
