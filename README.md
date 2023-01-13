@@ -4,7 +4,7 @@ Strategy & Analytics Consultant: Dima Taher
 # GitHub Navigation Instructions 
 
 - For a detailed overview of the complete project, please reference this [notebook.](House Price Predictions Using ML.ipynb)
-- For the Dataset used, it will be found [here.](Data/house_data_set.csv)
+- For the Dataset used, it will be found [here.](Data)
 
 
 # Overview
@@ -79,7 +79,7 @@ For the evaluation of the models' performances, three metrics are being focused 
 
 ## Results
 
-The results for each model were as follows: ![My Image](model results.jpg)
+The results for each model were as follows: 
 
 Random Forest performed best in all metrics, the model is explaining about 77% of the variance in house sale prices vs. 75% for XGBoost and 63% for linear regression. The MAE value is telling us that the model is off by about 59,265 USD in a given prediction vs. 62,197 USD for XGBoost and 94,602 USD for Linear Regression. 
 
