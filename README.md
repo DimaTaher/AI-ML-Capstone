@@ -1,5 +1,6 @@
 # Beau Home House Prices Prediction Using Machine Learning
 Strategy & Analytics Consultant: Dima Taher 
+![shutterstock_137795501_lo](https://user-images.githubusercontent.com/108957597/212249370-db3dff5b-f85d-40eb-a8d7-ce343c805d95.png)
 
 # GitHub Navigation Instructions 
 
@@ -80,6 +81,7 @@ For the evaluation of the models' performances, three metrics are being focused 
 ## Results
 
 The results for each model were as follows: 
+![image](https://user-images.githubusercontent.com/108957597/212249310-5643f94c-c910-455e-ad2c-6be67d8abd26.png)
 
 Random Forest performed best in all metrics, the model is explaining about 77% of the variance in house sale prices vs. 75% for XGBoost and 63% for linear regression. The MAE value is telling us that the model is off by about 59,265 USD in a given prediction vs. 62,197 USD for XGBoost and 94,602 USD for Linear Regression. 
 
