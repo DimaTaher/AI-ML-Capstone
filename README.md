@@ -4,7 +4,7 @@ Strategy & Analytics Consultant: Dima Taher
 
 # GitHub Navigation Instructions 
 
-- For a detailed overview of the complete project, please reference this [notebook](Notebook/House Price Predictions Using ML.ipynb).
+- For a detailed overview of the complete project, please reference this [notebook](Notebook/House_Price_Predictions_Using_ML.ipynb).
 - For the Dataset used, it will be found [here.](Data)
 
 
@@ -13,7 +13,7 @@ In effort to build a house price prediction model, three machine learning models
 
 - Beau Home Properties is recommended to use the Random Forest Model since it provided the most accurate results.
     
-The full presentation for this project can be found [here.](Presentation/Beau Home final Presentation.pdf)
+The full presentation for this project can be found [here.](Presentation/Presentation.pdf)
 
 
 # Business Understanding
