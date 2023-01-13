@@ -10,7 +10,7 @@ Strategy & Analytics Consultant: Dima Taher
 # Overview
 In effort to build a house price prediction model, three machine learning models were built, evaluated, and compared to each other to determine which model provided the most accurate results. The results lead to the following recommendation for Beau Home Properties:
 
-    - Beau Home Properties is recommended to use the Random Forest Model since it provided the most accurate results.
+    * Beau Home Properties is recommended to use the Random Forest Model since it provided the most accurate results.
     
 The full presentation for this project can be found here.
 
