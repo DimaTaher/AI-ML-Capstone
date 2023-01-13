@@ -4,7 +4,7 @@ Strategy & Analytics Consultant: Dima Taher
 
 # GitHub Navigation Instructions 
 
-- For a detailed overview of the complete project, please reference this [notebook.] (Notebook/House Price Predictions Using ML.ipynb)
+- For a detailed overview of the complete project, please reference this [notebook.](Notebook/House Price Predictions Using ML.ipynb)
 - For the Dataset used, it will be found [here.](Data)
 
 
@@ -58,7 +58,7 @@ Language: Python 3.8.5
 Major Packages and Version Numbers can be found [here.](requirements.txt)
 
 
-# Data Preparation and Machine Learning Models
+# Data Preparation
 
 The data was cleaned and explored in detail before drawing any conclusions. That helps inspecting the data better and getting a more accurate general understanding of the data at hand.
 Some features were not useful and didn't need to be included in the ML models, therefore, these columns were dropped: house_number, street_name, unit_number, zip_code.
@@ -70,7 +70,7 @@ After preparing the data, the numerical features were prepared into dicrete and 
 The data contained only two categorical variables: garage_type and city. One-Hot Encoding was used on these variables which means creating dummy variables to turn it into numerical values so that it can be used in the models.
 
 
-## Modeling
+# Modeling
 
 For this section, the data was split into train and test sets, 70% for the training set and 30% for the testing set which will be used in the models.
 
@@ -78,7 +78,8 @@ The first model is Linear Regression, this model will be used as a baseline mode
 
 For the evaluation of the models' performances, three metrics are being focused on which are the R-Squarred (R^2), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE). 
 
-## Results
+
+# Evaluation
 
 The results for each model were as follows: 
 
@@ -88,7 +89,6 @@ The results for each model were as follows:
 Random Forest performed best in all metrics, the model is explaining about 77% of the variance in house sale prices vs. 75% for XGBoost and 63% for linear regression. The MAE value is telling us that the model is off by about 59,265 USD in a given prediction vs. 62,197 USD for XGBoost and 94,602 USD for Linear Regression. 
 
 When we put all the models together and compare we can see that the Random Forest Model has the best accuracy results in all the metrics.
-
 
 
 # Business Recommendation:
